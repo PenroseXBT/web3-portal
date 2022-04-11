@@ -1,6 +1,6 @@
 # web3-portal
 
-On-chain (devnet) GIF portal where users can sumbited GIFs.
+On-chain (devnet) GIF portal where users can sumbit GIFs.
 
 cd app
 
